@@ -30,7 +30,7 @@ If you're starting today:
 
 > DevOps learning path from beginner to advanced
 
-![Preview](https://raw.githubusercontent.com/linuxteck/devops-career/main/devops-roadmap.png)
+![Preview](https://github.com/linuxteck/linux-devops-career-guide-2026/blob/main/Devops_Career.png)
 
 ---
 
